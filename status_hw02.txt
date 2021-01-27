@@ -1,0 +1,46 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Sukhman Singh
+
+2. What hostname did you deploy to?
+sukhmansingh.com
+
+3. What's the link to your repository on github with your code?
+https://github.com/Sukhman-Singh/CS4550_hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+About 10 for each, then as I built the program I would look for
+the sections that were related to the problems/objectives I was
+doing.
+
+5. How comfortable do you feel with HTML and CSS now?
+Fairly comfortable that if I need to do something specific
+I will be able to find out how using the w3schools sections.
+
+6. How many JS tutorial exercises did you do?
+About 10 and did the same thing as HTML/CSS described above.
+
+7. How comfortable do you feel with JS now?
+Comfortable, feel the same way as I do for HTML/CSS described above.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+Javascript was difficult to debug and I made a lot of small 
+mistakes because I never learned JS before.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
