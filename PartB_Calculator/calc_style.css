@@ -1,0 +1,52 @@
+body {
+  background-color: rgba(243, 118, 124);
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: repeat(5, 100px);
+}
+
+.output {
+  grid-column: 1/-1;
+  background-color: rgba(162, 175, 119);
+  border-radius: 25px 25px 0px 0px;
+  border-style: inset inset solid inset;
+  border-color: rgba(57, 56, 61);
+  border-width: 20px 20px 10px 20px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+}
+
+#currExpression {
+  font-size: 24px;
+}
+
+#currTerm {
+  font-size: 36px;
+}
+
+button {
+  cursor: pointer;
+  background-color: rgba(88, 89, 91);
+  border: 10px inset rgba(57, 56, 61);
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 30px;
+}
+
+button:hover {
+  background-color: lightgreen;
+}
