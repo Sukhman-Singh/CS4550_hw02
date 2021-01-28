@@ -5,7 +5,7 @@ Please fill in answers to the questions below:
 Sukhman Singh
 
 2. What hostname did you deploy to?
-sukhmansingh.com/
+sukhmansingh.com
 
 3. What's the link to your repository on github with your code?
 https://github.com/Sukhman-Singh/CS4550_hw02
